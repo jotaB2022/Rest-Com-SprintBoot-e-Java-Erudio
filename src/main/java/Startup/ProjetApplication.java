@@ -1,4 +1,4 @@
-package com.RestWithSprintBoot.Projet;
+package Startup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
